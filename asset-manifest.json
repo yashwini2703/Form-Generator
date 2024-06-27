@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yashwini2703/Form-Generator/static/css/main.feb57374.css",
+    "main.js": "/yashwini2703/Form-Generator/static/js/main.5d4fcbf6.js",
+    "index.html": "/yashwini2703/Form-Generator/index.html",
+    "main.feb57374.css.map": "/yashwini2703/Form-Generator/static/css/main.feb57374.css.map",
+    "main.5d4fcbf6.js.map": "/yashwini2703/Form-Generator/static/js/main.5d4fcbf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb57374.css",
+    "static/js/main.5d4fcbf6.js"
+  ]
+}
